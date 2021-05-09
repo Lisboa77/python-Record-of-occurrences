@@ -31,5 +31,5 @@ while True:
                 print(valor)  
             arquivo.write(
 f"\nNome do Solicitante: {valores['solicitante']} \nCidade : {valores['cidade']} \nEndereço : {valores['endereço']} \nSobre a Ocorrencia : {valores['ocorrencia']}")
-            arquivo.write(f"{idc}{data}{esp}")
+            arquivo.write(f'{idc}{data}{esp}')
             break 
