@@ -107,6 +107,6 @@ Cidade : Jardim Alvorada - SP
 Endere�o : Rua Cambucci 232 
 Sobre a Ocorrencia : Homem Armado e Bebado 
 ID DA OCORR�NCIA : 62820547
-DATA : 08 - 05 -  2021 - HORARIO 14 : 13 : 07 
+DATA : 08 - 05 -  2021 - HORARIO 14 : 13 : 06 
 .
 .
